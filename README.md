@@ -27,3 +27,9 @@ In the JavaScript section:
 - **Using `onclick` Events:** Learned to handle user actions by triggering functions when elements (like buttons) are clicked.
 - **Trim Method:** Used the `trim()` method to remove extra whitespace from user input, ensuring valid task entries.
 - **Remove Method and Manipulating Elements by ID:** Implemented the `remove()` method to delete tasks from the to-do list. Practiced accessing and manipulating DOM elements by their IDs to dynamically update the task list.
+
+
+![Screenshot 2024-11-07 193420](https://github.com/user-attachments/assets/9159de70-ed2f-44db-8e48-e37815f80833)
+
+![Screenshot 2024-11-07 193553](https://github.com/user-attachments/assets/9c4777e0-dde8-421c-95e6-804dd6e1c7df)
+
